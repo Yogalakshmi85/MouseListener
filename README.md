@@ -24,41 +24,29 @@
 
 ---
 
-### Installation  
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/MouseEventListener.git
-   cd MouseEventListener
-
-2. **Complile and Run**
+**Complile and Run**
 javac MouseEvent/MouseEventListerner.java
 java MouseEvent.MouseEventListerner
 
 🖼️ Icon Behavior
 Here’s a breakdown of what each mouse event does:
 
-Mouse Clicked	---> Displays a sad icon--->😢 "sad".
-Mouse Pressed --->	Shows a love icon	--->❤️ "heart".
-Mouse Released --->Reverts to surprise	--->😮 "surprise".
-Mouse Entered	--->Switches to scared --->😱 "scared".
-Mouse Exited --->Displays annoyed icon --->😒 "annoyed".
+- Mouse Clicked	---> Displays a sad icon--->😢 "sad".
+- Mouse Pressed --->	Shows a love icon	--->❤️ "heart".
+- Mouse Released --->Reverts to surprise	--->😮 "surprise".
+- Mouse Entered	--->Switches to scared --->😱 "scared".
+- Mouse Exited --->Displays annoyed icon --->😒 "annoyed".
 
 ## ✨ Customization
-Change Icons:
-Replace the .png files in the assets/ folder with your custom icons to give the app a unique flair.
+- Change Icons:
+    - Replace the .png files in the assets/ folder with your custom icons to give the app a unique flair.
 
-Modify Event Actions:
-Update the mouseClicked, mousePressed, etc., methods to add new behaviors or logging.
+- Modify Event Actions:
+     - Update the mouseClicked, mousePressed, etc., methods to add new behaviors or logging.
 
 ## 🛠️ Built With
-Java Swing: For the graphical user interface.
-AWT Events: To handle mouse interactions.
-
-## 🙌 Acknowledgments
-Thanks to Oracle Java Documentation for the helpful guides.
-Inspired by everyday desktop interactions!
-You can copy this Markdown content directly into your `README.md` file for your project. Let me know if you need help with icons or any other assets! 😊
+- Java Swing: For the graphical user interface.
+- AWT Events: To handle mouse interactions.
 
 ## Application view
 
