@@ -25,8 +25,8 @@
 ---
 
 **Complile and Run**
-javac MouseEvent/MouseEventListerner.java
-java MouseEvent.MouseEventListerner
+- javac MouseEvent/MouseEventListerner.java
+- java MouseEvent.MouseEventListerner
 
 🖼️ Icon Behavior
 Here’s a breakdown of what each mouse event does:
